@@ -1,2 +1,50 @@
-# ad339e70-no-code-low-code-screenshot
-Professional no code tools browser extension — without the professional price tag.  Under 1MB. Zero performance impact on browser speed. Privacy-first: all processing stays local, no data sent to third-party servers.  ## What's Included  - No-Code &amp; Low-Code Screenshot And Annotation Tool — fully configured and ready to use - One-click activation d
+# No-Code & Low-Code Screenshot and Annotation Tool Chrome Extension
+
+> Extension for No Code Tools
+
+Professional no code tools browser extension — without the professional price tag.
+
+Under 1MB. Zero performance impact on browser speed. Privacy-first: all processing stays local, no data sent to third-party servers.
+
+## What's Included
+
+- No-Code & Low-Code Screenshot And Annotation Tool — fully configured and ready to use
+- One-click...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core features | ✅ | ✅ |
+| Community support | ✅ | ✅ |
+| Basic configuration | ✅ | ✅ |
+| Advanced automation | ❌ | ✅ |
+| Priority support | ❌ | ✅ |
+| Custom configurations | ❌ | ✅ |
+| Auto-updates | ❌ | ✅ |
+| Premium integrations | ❌ | ✅ |
+| Unlimited usage | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy on Gumroad](https://wealthybot8.gumroad.com/l/iggkpc)** — Instant download, lifetime updates
+
+**[Buy Now (Stripe)](https://buy.stripe.com/5kQdR96mX0bW6xy33mcZH3R)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+- Pro customers get priority support via the [purchase platform](https://wealthybot8.gumroad.com/l/iggkpc)
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
